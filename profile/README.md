@@ -18,8 +18,6 @@ All packages versioning follows the below model:
 
 **EACH MAJOR VERSION IS SUPPORTED AS LONG AS THE LAST CORRESPONDING MINOR IS SUPPORTED**
 
-## Minimum PHP version: 8.1
+## Current Minimum PHP version: 8.1
 
 While our packages might work well on old versions of PHP, we are not responsible for bugs might occur on depreacated PHP versions. The minimum PHP version that we support is exactly the minimum PHP version supported by the PHP Group. For more details [visit official website](https://www.php.net/supported-versions.php) of PHP Group.
-
-
