@@ -2,7 +2,7 @@
 
 ## Contrubution Notes
 
-Before starting contributing, it is recommended to study our [standards](https://github.com/PHPallas/Standards). 
+Before starting contributing, it is recommended to study our [standards](https://github.com/PHPallas/Standards). We follow a scrum approach, view our [scrum board](https://github.com/orgs/PHPallas/projects/4).
 
 ## Active Repositories
 
